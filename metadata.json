@@ -1,0 +1,5 @@
+{
+  "name": "QuikCalc AI",
+  "description": "A lightning-fast, aesthetically pleasing calculator blending standard arithmetic with Gemini-powered natural language processing for complex conversions and queries.",
+  "requestFramePermissions": []
+}
